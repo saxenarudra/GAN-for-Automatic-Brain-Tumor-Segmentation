@@ -1,0 +1,12 @@
+----Model Parameters----
+Model	GAT
+Epochs	300
+Input Features	20
+LR	0.0001
+L2Reg	0.0001
+LR Decay	0.98
+Layer Sizes	[256, 256, 256, 256, 256, 256, 256, 256]
+Heads	[4 5 5 5 3 5 5 3]
+Residuals	[False, False, False, False, True, False, False, False]
+Fold	Loss	WT_Volex_Dice	CT_Volex_Dice	ET_Volex_Dice	WT_HD95	CT_HD95	ET_HD95
+
