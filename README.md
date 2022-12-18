@@ -56,8 +56,10 @@ Dice Score And Avg. HD95, Respectively. The Best Performances are Inked in Blue
 ```
 
 ## Authors
+[Dhrumil Patel](https://github.com/Dhrumil7)
 [Rudra Saxena](https://github.com/saxenarudra)
-
+[Dhruv Patel](https://github.com/dhruv2610/)
+[Jeevan Sai]
 
 ## Acknowledgement
 We would like to extend our sincere gratitude to Dr. Thangarajah Akilan, our supervisor, for his assistance with our research study.
